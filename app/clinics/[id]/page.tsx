@@ -7,6 +7,7 @@ import { Check, Star, ArrowLeft } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 import { notFound } from "next/navigation"
+import { Container } from "@/components/layout/container"
 
 interface ClinicDetailPageProps {
   params: Promise<{ id: string }>
