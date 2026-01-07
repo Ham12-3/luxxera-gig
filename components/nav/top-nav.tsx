@@ -20,7 +20,7 @@ export function TopNav() {
   const pathname = usePathname()
 
   return (
-    <MobileMenuProvider navLinks={navLinks} pathname={pathname}>
+    <MobileMenuProvider>
       <nav className="sticky top-0 z-50 w-full border-b border-border/50 bg-card/95 backdrop-blur supports-[backdrop-filter]:bg-card/80 relative">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 items-center justify-between gap-4">
