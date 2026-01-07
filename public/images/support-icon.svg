@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Chat support">
+  <!-- bubble -->
+  <path
+    d="M14 12h20c3.3 0 6 2.7 6 6v10c0 3.3-2.7 6-6 6H24l-6.8 5.2c-.9.7-2.2 0-2.2-1.1V34h-1c-3.3 0-6-2.7-6-6V18c0-3.3 2.7-6 6-6Z"
+    fill="#4CAF50"
+  />
+
+  <!-- message dots -->
+  <circle cx="18.5" cy="23" r="2" fill="#FFFFFF"/>
+  <circle cx="24" cy="23" r="2" fill="#FFFFFF"/>
+  <circle cx="29.5" cy="23" r="2" fill="#FFFFFF"/>
+</svg>

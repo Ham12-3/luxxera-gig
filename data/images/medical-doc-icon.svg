@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Medical document verified">
+  <!-- document -->
+  <path d="M14 6h14l6 6v26a4 4 0 0 1-4 4H14a4 4 0 0 1-4-4V10a4 4 0 0 1 4-4Z" fill="#4CAF50"/>
+  <!-- folded corner -->
+  <path d="M28 6v6h6" fill="#66BB6A"/>
+
+  <!-- lines -->
+  <rect x="16" y="18" width="16" height="3" rx="1.5" fill="#FFFFFF" opacity="0.85"/>
+  <rect x="16" y="24" width="14" height="3" rx="1.5" fill="#FFFFFF" opacity="0.75"/>
+
+  <!-- check badge -->
+  <circle cx="32" cy="32" r="8" fill="#2E7D32"/>
+  <path d="M28.5 32.2l2.2 2.4L35.8 29"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>
